@@ -87,7 +87,6 @@ Buscar Livro por Título, Autor ou Ano de Publicação
 # Banco de Dados
 A aplicação utiliza o banco de dados H2 em memória. Para acessar o console do H2, utilize:
 
-
     -URL: http://localhost:8080/h2
     -JDBC URL: jdbc:h2:mem:testdb
     -Usuário: sa
