@@ -29,7 +29,7 @@ API RESTful para gerenciar um catálogo de livros de uma biblioteca.
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/HenryVidal28/biblioteca.git
    
 2. Navegue até o diretório do projeto:
    ```bash

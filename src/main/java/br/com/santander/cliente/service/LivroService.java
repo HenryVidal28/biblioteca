@@ -1,4 +1,4 @@
-package br.com.santander.cliente;
+package br.com.santander.cliente.service;
 
 import br.com.santander.cliente.entity.Livro;
 import br.com.santander.cliente.repository.LivroRepository;

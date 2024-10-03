@@ -1,7 +1,7 @@
 package br.com.santander.cliente.controller;
 
 import br.com.santander.cliente.entity.Livro;
-import br.com.santander.cliente.LivroService;
+import br.com.santander.cliente.service.LivroService;
 import io.swagger.v3.oas.annotations.Operation;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;

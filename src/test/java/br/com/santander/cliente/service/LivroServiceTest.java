@@ -1,6 +1,5 @@
 package br.com.santander.cliente.service;
 
-import br.com.santander.cliente.LivroService;
 import br.com.santander.cliente.entity.Livro;
 import br.com.santander.cliente.repository.LivroRepository;
 import org.junit.jupiter.api.BeforeEach;
